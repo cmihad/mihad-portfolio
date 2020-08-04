@@ -2,4 +2,7 @@
 
 @tailwind components;
 
+.foo{
+  font-size:  calc(18vmin + 8*(100vw - 400px)/ 400);
+}
 @tailwind utilities;
