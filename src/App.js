@@ -33,7 +33,10 @@ function App() {
           </div>
             <div class="relative text-center customfont flex h-screen">
               <div class="m-auto">
-              <h1 className="foo" >🅼🅸🅷🅰🅳</h1>
+              <div class="glitch-wrapper">
+              <div class="glitch" data-text="MIHAD">MIHAD</div>
+              </div>
+             
                 <h2 className="font-extrabold text-6xl text-center"> Front End Engineer </h2>
                 <div className="text-center m-2 ">
                   <ul className="inline-flex flex-row p-2">
